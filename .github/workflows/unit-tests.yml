@@ -1,0 +1,6 @@
+name: Run Unit Tests on Commit
+
+on:
+  push:
+    branches: 
+      - main
