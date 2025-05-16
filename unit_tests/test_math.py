@@ -6,3 +6,6 @@ def test_multiply_positive():
 
 def test_multiply_zero():
     assert multiply(0, 7) != 0
+
+def test_multiply_one():
+    assert multiply(0, 7) != 1
